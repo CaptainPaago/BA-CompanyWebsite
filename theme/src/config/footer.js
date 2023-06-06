@@ -1,7 +1,7 @@
 export const footerSocials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://twitter.com/blisseladvisory',
     icon: "mdi:twitter",
   },
   {
@@ -11,7 +11,7 @@ export const footerSocials = [
   },
   {
     name: 'Github',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com/blisseladvisory',
     icon: "mdi:github",
   },
   {
@@ -23,32 +23,32 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: 'SAAS',
 		items: [
 			{
-				title: 'Landing Page 1',
+				title: 'StudyVolt',
 				slug: '/landing-pages/landing-1',
 			},
 			{
-				title: 'Landing Page 2',
+				title: 'Placr',
 				slug: '/landing-pages/landing-2',
 			},
-      // {
-			// 	title: 'Landing Page 3',
-			// 	slug: '/landing-pages/landing-3',
-			// },
+    		{
+				title: 'Aboy',
+				slug: '/landing-pages/landing-3',
+			},
 		],
 	},
 	{
-		title: 'Company',
+		title: 'COMPANY',
 		items: [
 			{
-				title: 'About',
+				title: 'About Us',
 				slug: '/company/about',
 			},
 			{
-				title: 'Blog',
-				slug: '/blog',
+				title: 'Team',
+				slug: '/theme/get-started',
 			},
 			{
 				title: 'Contact',
@@ -57,22 +57,22 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Theme',
+		title: 'INFORMATION',
 		items: [
 			{
-				title: 'Get Started',
-				slug: '/theme/get-started',
+				title: 'News',
+				slug: '/blog',
 			},
 			{
-				title: 'Style Guide',
+				title: 'Career',
 				slug: '/theme/style-guide',
 			},
       {
-        title: 'Theme Setup',
+        title: 'FAQs',
         slug: '/theme/theme-setup',
       },
       {
-        title: 'Customizing Odyssey',
+        title: 'Resources',
         slug: '/theme/customizing-odyssey',
       }
 		],
